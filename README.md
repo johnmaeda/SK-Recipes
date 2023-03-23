@@ -1,5 +1,11 @@
 # Semantic Kernel (SK) How Tos
 
+Notebook Episodes:
+
+* [S1E1 001 "Ez Starter Notebook"](https://github.com/johnmaeda/SK-How-Tos/tree/main/00-ez-starter-notebook)
+
+---
+
 This is a collection of .ipnyb files that are to be run locally with the following requirements:
 
 ## 🏁 Prerequisites to getting started with the notebooks in this repo
@@ -18,7 +24,7 @@ Separate from installing software, you will need to have an API key to access th
 
 ---
 
-### 📘 After you have achieved all the 👆 prerequisites achieved, open the notebooks in this repo from within Visual Studio Code and you are ready to to go!
+### 📘 After you have achieved all the 👆 prerequisites, open the notebooks in this repo from within Visual Studio Code and you are ready to to go!
 
 ---
 
