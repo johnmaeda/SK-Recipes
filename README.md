@@ -1,6 +1,8 @@
 # Semantic Kernel (SK) How Tos
 
-Notebook Episodes:
+---
+
+## 📺 Available Notebook Episodes
 
 * [S1E1 001 "Ez Starter Notebook"](https://github.com/johnmaeda/SK-How-Tos/tree/main/00-ez-starter-notebook)
 
