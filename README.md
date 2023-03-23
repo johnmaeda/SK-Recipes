@@ -33,3 +33,15 @@ Separate from installing software, you will need to have an API key to access th
 # ⏭️ Looking for more advanced notebooks on Semantic Kernel?
 
 Visit the Semantic Kernel GitHub repo at [https://aka.ms/sk/repo](https://aka.ms/sk/repo).
+
+# 😱 Never used GitHub or Visual Studio Code before? No problem. We've got you.
+
+Let's go step by step through what you'll need to do.
+
+1. Download and install [Visual Studio Code](https://code.visualstudio.com/Download)
+2. Download and install [.Net 7.0 SDK](https://dotnet.microsoft.com/en-us/download)
+3. Install [Polyglot Notebooks for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) by hitting the green "Install" button. This will launch Visual Studio Code and put it in the right place.
+4. Download the GitHub repo locally by clicking on the big green "<>Code" button and selecting "Download ZIP."
+5. Unzip the file and you should have a brand new folder of files.
+6. In Visual Studio Code choose "File > Open Folder ..." and select the folder you've freshly unzipped
+7. Select the notebook that's inside one of the episode folders. It should display like a nicely formatted document.
