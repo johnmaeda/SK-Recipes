@@ -4,6 +4,7 @@
 
 ## 📺 Available Notebook Episodes
 
+* S1E0 "Trailer: Ode To Salt, Fat, Acid, Heat"
 * [S1E1 "Ez Starter Notebook"](https://github.com/johnmaeda/SK-How-Tos/tree/main/00-ez-starter-notebook)
 * [S1E2 "Semantic Skill Folders"](https://github.com/johnmaeda/SK-How-Tos/tree/main/01-semantic-skill-pkg)
 * [S1E3 "Simple 'ChatGPT' Clone"](https://github.com/johnmaeda/SK-How-Tos/tree/main/02-simple-chatgpt)
@@ -13,15 +14,13 @@
 * S1E7 "Stay Fresh With APIs" / Related: Sample 3
 * S1E8 "Bonus: Planner Power" / Related: Sample 2
 
-... salt / fat / acid / heat
-
 ---
 
 This repo is a collection of .ipnyb files that to be run locally with the following requirements:
 
 ## 🏁 Prerequisites to getting started with the notebooks in this repo
 
-> 👋 New to GitHub and VS Code? [Beginner instructions are at the 👇bottom.](https://github.com/johnmaeda/SK-How-Tos#-never-used-github-or-visual-studio-code-before-no-problem-weve-got-you)
+> 😱 New to GitHub and VS Code? [Beginner instructions are at the 👇bottom.](https://github.com/johnmaeda/SK-How-Tos#-never-used-github-or-visual-studio-code-before-no-problem-weve-got-you)
 
 Software that needs to be installed on your computer:
 
@@ -66,5 +65,3 @@ Let's go step by step through what you'll need to do.
 6. In Visual Studio Code choose "File > Open Folder ..." and select the folder you've freshly unzipped
 7. Select the `notebook.ipnyb` that's inside the `00-ez-starter-notebook` folder. It should display like a nicely formatted document.
 8. Be sure to have your OpenAI or Azure OpenAI Service key ready. You can access your API key on OpenAI with [these instructions](https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key), or on Azure Open AI Service with [these instructions](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/reference).
-
-**"GitHub repo" refers to this web page you're currently visiting [https://github.com/johnmaeda/SK-How-Tos](https://github.com/johnmaeda/SK-How-Tos). 
