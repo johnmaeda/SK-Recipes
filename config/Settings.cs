@@ -12,7 +12,7 @@ using InteractiveKernel = Microsoft.DotNet.Interactive.Kernel;
 
 public static class Settings
 {
-    private const string DefaultConfigFile = "config/settings.json";
+    private const string DefaultConfigFile = "../config/settings.json";
     private const string TypeKey = "type";
     private const string ModelKey = "model";
     private const string EndpointKey = "endpoint";
