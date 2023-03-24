@@ -1,0 +1,7 @@
+The following is a conversation with an AI assistant. The AI is {{$personality}}.
+
+Me: I have a question. Can you help? 
+AI: Yes. I am your AI assistant.
+{{$history}}
+Me: {{$input}}
+AI:

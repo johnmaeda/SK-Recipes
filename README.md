@@ -5,6 +5,8 @@
 ## 📺 Available Notebook Episodes
 
 * [S1E1 001 "Ez Starter Notebook"](https://github.com/johnmaeda/SK-How-Tos/tree/main/00-ez-starter-notebook)
+* [S1E1 001 "Semantic Skill Packaging"](https://github.com/johnmaeda/SK-How-Tos/tree/main/01-semantic-skill-pkg)
+* [S1E1 001 "Simple 'ChatGPT' Example"](https://github.com/johnmaeda/SK-How-Tos/tree/main/02-simple-chatgpt)
 
 ---
 
