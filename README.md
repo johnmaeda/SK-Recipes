@@ -47,12 +47,21 @@ Visit the Semantic Kernel GitHub repo at [https://aka.ms/sk/repo](https://aka.ms
 
 # 😱 Never used GitHub or Visual Studio Code before? No problem. We've got you.
 
+First, here are a few definitions of concepts you will need to move forward:
+
+* "GitHub repo" refers to this web page you're currently visiting [https://github.com/johnmaeda/SK-How-Tos](https://github.com/johnmaeda/SK-How-Tos).
+* "Visual Studio Code" is an application that runs on your computer. It lets you edit the various text files that create runnable software systems.
+* "Visual Studio Code Extensions" are special "apps" that you can install into Visual Studio Code to extend its capabilities.
+* "Polyglot Notebooks for VS Code" is a VS Code Extension — it's necessary for display the various `.ipnyb` files within VS Code.
+* "Download the GitHub repo locally" means using GitHub.com to transfer the files being managed for a project to your computer.
+* "OpenAI or Azure OpenAI Service key" refers to a secret credential that only you have access to after you've signed up for either service.
+
 Let's go step by step through what you'll need to do.
 
 1. Download and install [Visual Studio Code](https://code.visualstudio.com/Download)
 2. Download and install [.Net 7.0 SDK](https://dotnet.microsoft.com/en-us/download)
-3. Install [Polyglot Notebooks for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) by hitting the green "Install" button. This will launch Visual Studio Code and put it in the right place.
-4. Download the GitHub repo** locally by clicking on the big green "<>Code" button and selecting "Download ZIP" or by [going here](https://github.com/johnmaeda/SK-How-Tos/zipball/main).
+3. Install [Polyglot Notebooks for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode) extension by hitting the green "Install" button. This will launch Visual Studio Code and put it in the right place.
+4. Download the GitHub repo locally by clicking on the big green "<>Code" button and selecting "Download ZIP" or by [going here](https://github.com/johnmaeda/SK-How-Tos/zipball/main).
 5. Unzip the file and you should have a brand new folder of files.
 6. In Visual Studio Code choose "File > Open Folder ..." and select the folder you've freshly unzipped
 7. Select the `notebook.ipnyb` that's inside the `00-ez-starter-notebook` folder. It should display like a nicely formatted document.
