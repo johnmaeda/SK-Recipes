@@ -4,7 +4,7 @@
 
 ## 📺 Available Notebook Episodes
 
-* S1E0 "Trailer: Ode To Salt, Fat, Acid, Heat"
+* [S1E0 "Trailer: Ode To Salt, Fat, Acid, Heat"](https://github.com/johnmaeda/SK-How-Tos/tree/main/s1e0-trailer)
 * [S1E1 "Ez Starter Notebook"](https://github.com/johnmaeda/SK-How-Tos/tree/main/s1e1-ez-starter-notebook)
 * [S1E2 "Semantic Skill Folders"](https://github.com/johnmaeda/SK-How-Tos/tree/main/s1e2-semantic-skill-pkg)
 * [S1E3 "Simple 'ChatGPT' Clone"](https://github.com/johnmaeda/SK-How-Tos/tree/main/s1e3-simple-chatgpt)
@@ -16,7 +16,7 @@
 
 ---
 
-This repo is a collection of .ipnyb files that to be run locally with the following requirements:
+This repo is a collection of `.ipynb` (aka "Jupyter notebook") files to be run locally with the following requirements:
 
 ## 🏁 Prerequisites to getting started with the notebooks in this repo
 
