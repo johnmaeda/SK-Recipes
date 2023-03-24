@@ -65,3 +65,5 @@ Let's go step by step through what you'll need to do.
 6. In Visual Studio Code choose "File > Open Folder ..." and select the folder you've freshly unzipped
 7. Select the `notebook.ipnyb` that's inside the `s1e1-ez-starter-notebook` folder. It should display like a nicely formatted document.
 8. Be sure to have your OpenAI or Azure OpenAI Service key ready. You can access your API key on OpenAI with [these instructions](https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key), or on Azure Open AI Service with [these instructions](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/reference).
+
+🎉 You are now done with your set up to run Semantic Kernel completely from within VS Code's notebooks.
