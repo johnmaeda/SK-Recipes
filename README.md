@@ -16,8 +16,9 @@
 
 #### Open TO-DOs:
 
-- [ ] Add figures
+- [ ] Add explanatory figures
 - [ ] Include walk-through videos
+- [ ] Add Discord primer
 
 ---
 
