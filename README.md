@@ -14,6 +14,11 @@
 * S1E7 "Stay Fresh With APIs" / Related: Sample 3
 * S1E8 "Bonus: Planner Power" / Related: Sample 2
 
+#### Open TO-DOs:
+
+- [ ] Add figures
+- [ ] Include walk-through videos
+
 ---
 
 This repo is a collection of `.ipynb` (aka "Jupyter notebook") files to be run locally with the following requirements:
