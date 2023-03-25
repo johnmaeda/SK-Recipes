@@ -1,4 +1,4 @@
-# Semantic Kernel (SK) How Tos
+# Experimental: Semantic Kernel How-Tos
 
 ---
 
