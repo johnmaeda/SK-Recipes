@@ -1,13 +1,13 @@
-# Experimental: Semantic Kernel How-Tos
+# Experimental: Semantic Kernel Recipe
 
 ---
 
-## 📺 Available Notebook Episodes
+## 📺 Available SK Recipes
 
-* [S1E0 "Trailer: Ode To Salt, Fat, Acid, Heat"](https://github.com/johnmaeda/SK-How-Tos/tree/main/s1e0-trailer)
-* [S1E1 "Ez Starter Notebook"](https://github.com/johnmaeda/SK-How-Tos/tree/main/s1e1-ez-starter-notebook)
-* [S1E2 "Semantic Skill Folders"](https://github.com/johnmaeda/SK-How-Tos/tree/main/s1e2-semantic-skill-pkg)
-* [S1E3 "Simple 'ChatGPT' Clone"](https://github.com/johnmaeda/SK-How-Tos/tree/main/s1e3-simple-chatgpt)
+* [S1E0 "Trailer: Ode To Salt, Fat, Acid, Heat"](https://github.com/johnmaeda/SK-Recipes/tree/main/s1e0-trailer)
+* [S1E1 "Easy Starter Notebook"](https://github.com/johnmaeda/SK-Recipes/tree/main/s1e1-start)
+* [S1E2 "Semantic Skill Folders"](https://github.com/johnmaeda/SK-Recipes/tree/main/s1e2-skill)
+* [S1E3 "Simple 'ChatGPT' Clone"](https://github.com/johnmaeda/SK-Recipes/tree/main/s1e3-chatabc)
 * S1E4 "Secrets To Prompting"
 * S1E5 "Chaining Functions Together" / Related: Sample 1
 * S1E6 "Embeddings Expands Your Mind" / Related: Sample 4
