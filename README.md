@@ -12,7 +12,7 @@ There's a free LinkedIn Learning course on Semantic Kernel available [here](http
 * [S1E3 "Simple 🧂🥑🔥 'ChatGPT' Clone"](https://github.com/johnmaeda/SK-Recipes/tree/main/s1e3-chat)
 * [S1E4 "Secrets To 🧂🔥 Prompting"](https://github.com/johnmaeda/SK-Recipes/tree/main/s1e4-secrets)
 * ~~S1E5 "Chain Functions Together"~~ / Impatient? Run [SK sample app for Skills](https://github.com/microsoft/semantic-kernel/tree/main/samples/apps/chat-summary-webapp-react)
-* ~~S1E6 "Break Memory Limits"~~ / Impatient? Run [SK sample app for Memories](https://github.com/microsoft/semantic-kernel/tree/main/samples/apps/github-qna-webapp-react)
+* ~~S1E6 "Transcend Memory Limits"~~ / Impatient? Run [SK sample app for Memories](https://github.com/microsoft/semantic-kernel/tree/main/samples/apps/github-qna-webapp-react)
 * ~~S1E7 "Stay Fresh With APIs"~~ / Impatient? Run [SK sample app for Connectors](https://github.com/microsoft/semantic-kernel/tree/main/samples/apps/auth-api-webapp-react)
 * ~~S1E8 "Bonus: Planner Power"~~ / Impatient? Run [SK sample app for Planner](https://github.com/microsoft/semantic-kernel/tree/main/samples/apps/book-creator-webapp-react)
 * ~~S1E9 "Epilogue"~~
