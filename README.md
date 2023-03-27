@@ -35,7 +35,7 @@ Software that needs to be installed on your computer:
 * ✅ The latest [.Net 7.0 SDK](https://dotnet.microsoft.com/en-us/download) 
 * ✅ [Polyglot Notebooks for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
 
-When the three items above are installed, this notebook should be formatted nicely with code blocks that have a little ▶️ (play) button next to them. This lets you run the code from within Visual Studio Code and serves as a little playground for your initial Semantic Kernel learnings.
+When the three items above are installed, this notebook should be formatted nicely with code blocks that have a little ▶️ (play) button next to them when you hover over the code. The "Polyglot Notebooks for VS Code" extension is what lets you run all the code snippets from within VS Code and serves as a little playground for your initial Semantic Kernel learnings.
 
 Separate from installing software, you will need to have an API key to access the OpenAI models. 
 
