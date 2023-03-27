@@ -9,13 +9,14 @@
 )
 * [S1E2 "Semantic 🧂🔥 Skill Folders"](https://github.com/johnmaeda/SK-Recipes/tree/main/s1e2-skills)
 * [S1E3 "Simple 🧂🥑🔥 'ChatGPT' Clone"](https://github.com/johnmaeda/SK-Recipes/tree/main/s1e3-chat)
-* S1E4 "Secrets To Prompting"
-* S1E5 "Chaining Functions Together" / Related: Sample 1 <🔥 demonstrate the power and chain o t hought>
-* S1E6 "Break Memory Limits" / Related: Sample 4 <🥑 explain tokens and break the token window limit>
-* S1E7 "Stay Fresh With APIs" / Related: Sample 3 <🍋> weather api and/or update a sign on the web>
-* S1E8 "Bonus: Planner Power" / Related: Sample 2 <start from an ask>
+* [S1E4 "Secrets To Prompting"](https://github.com/johnmaeda/SK-Recipes/tree/main/s1e4-secret)
+* S1E5 "Chain Functions Together" [SK sample app for Skills](https://github.com/microsoft/semantic-kernel/tree/main/samples/apps/chat-summary-webapp-react)
+* S1E6 "Break Memory Limits" [SK sample app for Memories](https://github.com/microsoft/semantic-kernel/tree/main/samples/apps/github-qna-webapp-react)
+* S1E7 "Stay Fresh With APIs" [SK sample app for Connectors](https://github.com/microsoft/semantic-kernel/tree/main/samples/apps/auth-api-webapp-react)
+* S1E8 "Bonus: Planner Power" [SK sample app for Planner](https://github.com/microsoft/semantic-kernel/tree/main/samples/apps/book-creator-webapp-react)
+* S1E9 "Epilogue"
 
-#### Open TO-DOs:
+#### John's to-do list:
 
 - [ ] Add explanatory figures
 - [ ] Include walkthrough videos
@@ -23,11 +24,11 @@
 
 ---
 
-This repo is a collection of `.ipynb` (aka "Jupyter notebook") files to be run locally with the following requirements:
+This repo is a collection of `.ipynb` (aka "Jupyter notebook") files to be run locally from VS Code with the following requirements:
 
 ## 🏁 Prerequisites to getting started with the notebooks in this repo
 
-> 😱 New to GitHub and VS Code? [Beginner instructions are at here.](THE-BASICS.md)
+> 😱 New to GitHub and VS Code? [Beginner instructions are over here.](THE-BASICS.md)
 
 Software that needs to be installed on your computer:
 
