@@ -1,4 +1,4 @@
-# Experimental: Semantic Kernel Recipe
+# Experimental: Uncle John's Semantic Kernel Recipes
 
 ---
 
