@@ -1,0 +1,5 @@
+Customer support logs were analyzed for problems and reasons why they may be happening. The various labor associated with each issue has been assessed.
+---
+{{$input}}
+---
+Create a markdown table that shows the different kind of labor per issue, and the expected level of time versus money resources required as LOW, MEDIUM, or HIGH

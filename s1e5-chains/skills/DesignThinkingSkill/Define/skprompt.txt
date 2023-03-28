@@ -1,0 +1,13 @@
+Customer support logs were analyzed for problems with the top cases surfacing as:
+---
+{{$input}}
+---
+Define at least five most likely related problems at the heart of the customer cases in JSON format. 
+The format should read:
+[
+    { "title": "concise name of the likely problem", "problem": "definition of the problem as commonly encountered", "source":"common reason why this problem exists"},
+    { "title": "concise name of the likely problem", "problem": "definition of the problem as commonly encountered", "source":"common reason why this problem exists"},
+    { "title": "concise name of the likely problem", "problem": "definition of the problem as commonly encountered", "source":"common reason why this problem exists"},
+    { "title": "concise name of the likely problem", "problem": "definition of the problem as commonly encountered", "source":"common reason why this problem exists"},
+    { "title": "concise name of the likely problem", "problem": "definition of the problem as commonly encountered", "source":"common reason why this problem exists"},
+]

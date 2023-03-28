@@ -1,0 +1,5 @@
+A set of solutions have been identified as steps to prototype a solution.
+---
+{{$input}}
+---
+For each solution and its associated steps, describe a low-resolution "paper prototype" so that the solution can be performed and tested with another party.

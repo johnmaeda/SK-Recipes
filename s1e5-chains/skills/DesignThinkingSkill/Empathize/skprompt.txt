@@ -1,0 +1,11 @@
+The following are anonymized comments from customers:
+---
+{{$input}}
+---
+Isolate the three most common learning moments from customer feedback as a response in JSON format. 
+The format should read:
+[
+    { "sentiment": "expression of a sentiment", "summary": "concise summary of reason for this sentiment"},
+    { "sentiment": "expression of a sentiment", "summary": "concise summary of reason for this sentiment"},
+    { "sentiment": "expression of a sentiment", "summary": "concise summary of reason for this sentiment"},
+]

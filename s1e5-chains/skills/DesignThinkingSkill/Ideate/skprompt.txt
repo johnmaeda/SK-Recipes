@@ -1,0 +1,7 @@
+A set of problems have been identified with estimated resources required to address them:
+---
+{{$input}}
+---
+In a markdown table there are two columns labeled "Lower-hanging fruit" and "Higher-hanging fruit".
+The first column has ten ideas for products, programs, or features that should be implemented for cases where any resource requirements are MEDIUM or LOW.
+The second column has ten ideas for products, programs, or features that should be implemented for cases where any resource requirements are HIGH.
