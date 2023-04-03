@@ -1,5 +1,0 @@
-A set of solutions have been identified as low-hanging fruit versus high-hanging fruit. 
----
-{{$input}}
----
-Select two of the easiest solutions in the low-hanging fruit category and enumerate the steps required to implement each of them.

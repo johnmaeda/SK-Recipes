@@ -1,5 +1,0 @@
-Customer support logs were analyzed for problems and reasons why they may be happening.
----
-{{$input}}
----
-Describe the tasks that would be required to address each of the issues in terms of required labor.

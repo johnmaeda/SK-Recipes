@@ -9,10 +9,10 @@ This repo is a collection of `.ipynb` (aka "Jupyter notebook") files to be run l
 
 * ⏲️ [The Kitchen](e1-kitchen-entrance/notebook.ipynb)
 * 🍽️ [First Dish](e2-first-dish/notebook.ipynb)
-* 🧂 [Skills Rack](e3-skill-rack/notebook.ipynb)
+* 🧂 [Skills Rack](e3-skills-rack/notebook.ipynb)
 * 🥑 [Memories Maximized](e4-memories/notebook.ipynb)
 * 🍋 [Connectors w/ Bing](e5-connectors/notebook.ipynb)
-* 🔥 [Kernel Chain Reactions](e6-chains/notebook.ipynb)
+* 🔥 [Kernel Chain Reactions](e6-design-chain/notebook.ipynb)
 * 💬 [MiniChatGPT Clone](e7-bonus-chat/notebook.ipynb)
 * 🕵️ [Prompt Secrets](e8-bonus-prompts/notebook.ipynb)
 
@@ -21,7 +21,7 @@ This repo is a collection of `.ipynb` (aka "Jupyter notebook") files to be run l
 
 ## 🏁 Prerequisites to getting started with the notebooks in this repo
 
-For both the seasoned coding veteran and the fearless newbie learner, [we've got you](THE-BASICS.md).
+For both the seasoned coding veteran and the fearless newbie learner, [we've got you](PREREQS.md).
 
 # ⏭️ Looking for more advanced notebooks on Semantic Kernel?
 

@@ -46,7 +46,7 @@ We're going to go step-by-step through what you'll need to do:
 4. Download the GitHub repo locally by clicking on the big green "<>Code" button and selecting "Download ZIP" or by [going here](https://github.com/johnmaeda/SK-How-Tos/zipball/main).
 5. Unzip the file and you should have a brand new folder of files.
 6. In Visual Studio Code choose "File > Open Folder ..." and select the folder you've freshly unzipped
-7. Select the `notebook.ipnyb` that's inside any of the recipe folder. The file should display like a nicely formatted document.
+7. Select the `notebook.ipynb` that's inside any of the recipe folder. The file should display like a nicely formatted document.
 8. Be sure to have your OpenAI or Azure OpenAI Service key ready. You can access your API key on OpenAI with [these instructions](https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key), or on Azure Open AI Service with [these instructions](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/reference).
 
 🎉 You are now done with your set up to run Semantic Kernel completely from within VS Code's notebooks. There's no need to view files from GitHub.com anymore — you should be viewing them locally from your computer on VS Code. Good luck!

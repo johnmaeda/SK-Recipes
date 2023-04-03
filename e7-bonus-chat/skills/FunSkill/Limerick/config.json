@@ -9,7 +9,7 @@
     "presence_penalty": 0.0,
     "frequency_penalty": 0.0
   },
-  "default_backends": [
+  "default_services": [
     "text-davinci-003"
   ]
 }

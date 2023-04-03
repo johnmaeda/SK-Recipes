@@ -1,8 +1,0 @@
-A low-resolution "paper prototype" has been defined to make a solution testable with another party.
-The problem has been defined, and the goal is to test the solution on two kinds of people.
----
-{{$input}}
----
-Person A is upset about the product because it is failing them when they use the power button. 
-Simulate Person A testing the paper prototype in a turn-taking session realized as chat and over time getting to resolution.
-Then, explain why this solution is helping to reduce the customer's pain.
